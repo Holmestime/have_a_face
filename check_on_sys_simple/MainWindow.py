@@ -9,10 +9,9 @@ from PIL import Image, ImageTk
 from YotoFace import *
 import numpy as np
 import cv2
-# import cv2.cv as cv
 import time
 import threading
-import b
+import warning
 from multiprocessing import Process
 
 

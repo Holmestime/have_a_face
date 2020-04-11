@@ -10,6 +10,7 @@ import numpy as np
 import cv2
 import time
 import threading
+
 class Ma_register(object):
     def __init__(self, _img,_id):
 	self.img=_img
